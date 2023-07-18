@@ -31,16 +31,4 @@ To use the Employee Search application:
 The web page will load, displaying a search form where you can enter the name of an employee. Upon clicking the "Search" button, the application will display the information of employees whose names match the search criteria.
 
 # JSON Data Structure
-The JSON data used in the application contains information about employees, including their first name, last name, age, email, occupation, and hobby. The structure of each employee object is as follows
-
-  [
-    {
-      "firstName": "John",
-      "lastName": "Doe",
-      "age": 30,
-      "email": "john.doe@example.com",
-      "occupation": "Software Engineer",
-      "hobby": "Photography"
-    },
-    // Other employee objects follow...
-  ]
+The JSON data used in the application contains information about employees, including their first name, last name, age, email, occupation, and hobby.
