@@ -1,0 +1,43 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "occupation": "Software Engineer",
+    "hobby": "Photography"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Smith",
+    "age": 28,
+    "email": "anna.smith@example.com",
+    "occupation": "Marketing Manager",
+    "hobby": "Traveling"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Jones",
+    "age": 35,
+    "email": "peter.jones@example.com",
+    "occupation": "Sales Executive",
+    "hobby": "Playing Guitar"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "age": 27,
+    "email": "emily.johnson@example.com",
+    "occupation": "Graphic Designer",
+    "hobby": "Painting"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "age": 32,
+    "email": "michael.brown@example.com",
+    "occupation": "Accountant",
+    "hobby": "Reading"
+  }
+]
+
